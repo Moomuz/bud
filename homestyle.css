@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*General Layout*/
+
+*{
+	padding:0;
+	margin:0;
+	font-family:"Century Gothic", san-serif;
+	color:#787878;
+	background-color:;
+}
+
+#wrapper{
+	margin:auto;
+}
+
+nav{
+	border-bottom:1px solid #787878;
+	min-height:145px;
+}
+
+nav ul{
+	display: table-row;
+	text-align:center;
+	color:#787878;
+	float: right;
+	margin-right:340px;
+	margin-top:100px;
+}
+
+nav li{
+	display:table-cell;
+	color:#787878;
+	font-size:17px;
+	font-weight:100;
+}
+
+nav a{
+	color:black;
+	text-decoration:none;
+	padding:1em;
+	color:#787878;
+	background-color:#FFF;
+}
+
+nav a:link{
+	text-decoration:none;
+	color:#787878;
+}
+
+nav a:hover{
+	text-decoration:underline;
+	color:#73BF43;
+}
+
+nav a:active{
+	color:white;
+	text-decoration:none;
+	color:#787878;
+	color:#787878;
+}
+
+img.logo{
+	margin-left:363px;
+	margin-top:30px;
+}
+
+main{
+	height:1878px;
+	max-width:1185px;
+	margin:auto;
+	margin-bottom:10px;
+	background-color:;
+}
+
+footer{
+	min-height:40px;
+	margin:auto;
+	border-top:1px solid #787878;
+	padding-top:12px;
+	padding-left:370px;
+}
+
+/*Home Style*/
+
+.bigpromo{
+	margin-top:25px;
+}
+
+p.scroll{
+	font-size:43px;
+	color:#73BF43;
+	border:1px solid #787878;
+	text-align:center;
+	margin-top:15px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+img.three{
+	border-radius:185px;
+	margin-top:30px;
+	margin-left:25px;
+	margin-bottom:25px;
+	float:left;
+}
+
+img.three1{
+	border-radius:185px;
+	margin-top:30px;
+	margin-bottom:25px;
+	float:left;
+}
+
+p.title{
+background-color:;
+	width:378px;
+	height:50px;
+	margin-left:25px;
+	font-size:37px;
+	color:#73BF43;
+	border-bottom:1px solid #787878;
+	float:left;
+	text-align:center;
+}
+
+p.title1{
+background-color:;
+	width:378px;
+	height:50px;
+	font-size:37px;
+	color:#73BF43;
+	border-bottom:1px solid #787878;
+	float:left;
+	text-align:center;
+}
+
+p.desc{
+	width:378px;
+	height:100px;
+	margin-left:25px;
+	font-size:17px;
+	float:left;
+	text-align:center;
+	padding-top:15px;
+}
+
+p.desc1{
+	width:378px;
+	height:100px;
+	font-size:17px;
+	float:left;
+	text-align:center;
+	padding-top:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

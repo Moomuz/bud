@@ -1,0 +1,249 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*General Layout*/
+
+*{
+	padding:0;
+	margin:0;
+	font-family:"Century Gothic", san-serif;
+	color:#787878;
+	background-color:;
+}
+
+#wrapper{
+	margin:auto;
+}
+
+nav{
+	border-bottom:1px solid #787878;
+	min-height:145px;
+}
+
+nav ul{
+	display: table-row;
+	text-align:center;
+	color:#787878;
+	float: right;
+	margin-right:340px;
+	margin-top:100px;
+}
+
+nav li{
+	display:table-cell;
+	color:#787878;
+	font-size:17px;
+	font-weight:100;
+}
+
+nav a{
+	color:black;
+	text-decoration:none;
+	padding:1em;
+	color:#787878;
+	background-color:#FFF;
+}
+
+nav a:link{
+	text-decoration:none;
+	color:#787878;
+}
+
+nav a:hover{
+	text-decoration:underline;
+	color:#73BF43;
+}
+
+nav a:active{
+	color:white;
+	text-decoration:none;
+	color:#787878;
+	color:#787878;
+}
+
+img.logo{
+	margin-left:363px;
+	margin-top:30px;
+
+}
+
+main{
+	min-height:2878px;
+	max-width:1185px;
+	margin:auto;
+	margin-bottom:10px;
+}
+
+footer{
+	min-height:40px;
+	margin:auto;
+	border-top:1px solid #787878;
+	padding-top:12px;
+	padding-left:370px;
+}
+
+/*Product Page Style*/
+
+#side{
+	width:280px;
+	background-color:;
+	float:left;
+	position:fixed;
+}
+
+#content{
+	min-width:885px;
+	height:2000px;
+	float:right;
+}
+
+/*Side Style*/
+
+#links ul{
+	list-style:none;
+}
+
+#links li{
+	padding-top:1em;
+}
+
+#side a{
+	font-size:25px;
+	text-decoration:none;
+	color:#787878;
+}
+
+#side a:hover{
+	text-decoration:none;
+	color:#71411C;
+}
+
+#side a:active{
+	color:white;
+	text-decoration:none;
+	color:;
+}
+
+.title1{
+	text-align:left;
+	border-bottom:1px solid #787878;
+	color:#73BF43;
+	font-size:37px;
+}
+
+#series1{
+	width:270px;
+	height:43px;
+	margin-top:30px;
+}
+
+
+/*Series Style*/
+
+#series{
+	width:885px;
+	height:43px;
+	margin-top:30px;
+}
+
+#product{
+	height:325px;
+	width:885px;
+}
+
+.title{
+	text-align:left;
+	border-bottom: 1px solid #787878;
+	color:#73BF43;
+	font-size:37px;
+}
+
+#name{
+	min-width:220px;
+	min-height:305px;
+	margin-top:30px;
+	float:left;
+}
+
+#name p{
+	font-size:25px;
+	text-align:right;
+	color:#71411C;
+}
+
+#spacer{
+	height:305px;
+	width:305px;
+	margin-left:30px;
+	margin-top:30px;
+	background-color:#CCC;
+	float:left;
+	border-radius:152px;
+}
+
+.flower{
+	border-radius:152px;
+}
+
+#desc{
+	height:305px;
+	width:300px;
+	margin-left:30px;
+	margin-top:30px;
+	float:left;
+	font-size:;
+}
+
+p.desc{
+	line-height:1.5em;
+}
+
+p.price{
+	font-size: 25px;
+	margin-bottom:20px;
+}
+
+#backtobasics{
+	margin-bottom:30px;
+}
+
+#succulents{
+	margin-bottom:30px;
+}
+
+#kitchenherbs{
+	margin-bottom:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
